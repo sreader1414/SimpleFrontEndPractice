@@ -4,7 +4,7 @@ Used Create-React-App to get started. https://github.com/facebookincubator/creat
 Given some pictures and attempted to recreate the look and feel of the front end dialog boxes.
 
 
-###To Get Started:
+<b>To Get Started:</b>
 
 Clone this repo into whatever directory you want
 `git clone https://github.com/sreader1414/SimpleFrontEndPractice.git`
