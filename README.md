@@ -3,9 +3,9 @@ Used Create-React-App to get started. https://github.com/facebookincubator/creat
 
 Given some pictures and attempted to recreate the look and feel of the front end dialog boxes.
 <div>
-<img src="Example1.png" width="100">
-<img src="Example2.png" width="100">
-<img src="Example3.png" width="100">
+<img src="Example1.png" width="150">
+<img src="Example2.png" width="150">
+<img src="Example3.png" width="150">
 </div>
 
 To get started and check it out clone this repo
