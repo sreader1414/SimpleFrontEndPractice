@@ -11,9 +11,9 @@ Clone this repo into whatever directory you want
 
 Change your directory in terminal (or whatever you are using) to `my-app` folder
 
-Run `npm i` then after that finishes run `npm start` or `yarn start` in terminal
+Run `npm i` then after that finishes run `npm start` in terminal
 
-Lastly, go to `http://localhost:3000` to see it working!
+Lastly, go to `http://localhost:3000` in your browser to see it working!
 
 <div>
   <img src="Example3.png" width="150">
